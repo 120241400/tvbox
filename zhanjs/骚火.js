@@ -1,7 +1,7 @@
 // 搜索验证
 var rule={
 title:'骚火',
-host:'https://fastidious-kitsune-9ab51c.netlify.app/sxtk.html?url=https://shdy3.com',
+host:'https://shdy3.com',
 // url:'/list/fyclass-fypage.html',
 url:'/list/fyfilter-fypage.html',
 filterable:1,//是否启用分类筛选,
