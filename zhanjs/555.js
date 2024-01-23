@@ -147,7 +147,10 @@ var rule = {
 			var name = {
 				'bfzym3u8': '暴风',
 				'1080zyk': '优质',
-				'kuaikan': '快看',
+
+'leshi': '乐视',
+    
+'kuaikan': '快看',
 				'lzm3u8': '量子',
 				'ffm3u8': '非凡',
 				'haiwaikan': '海外看',
