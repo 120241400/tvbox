@@ -100,7 +100,7 @@ try {
 		vod_content: node["brief"].strip()
 	};
 	let tid = input.split("ids=")[1].split('&')[0];
-	let listUrl='https://wangqing.vip/mao/taobao/guanjie.html?url='+tid+'&package=com.sevenVideo.app.android&version=&sj='+ts;
+	let listUrl='https://api.tyun77.cn/api.php/provide/videoPlaylist?devid=453CA5D864457C7DB4D0EAA93DE96E66&ids='+tid+'&package=com.sevenVideo.app.android&version=&sj='+ts;
 	html = request(listUrl,{
 	headers:getHeaders(listUrl,ts)
 	});
