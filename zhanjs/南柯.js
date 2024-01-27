@@ -2,7 +2,7 @@ muban.mxpro.二级.desc = ';;;.module-info-item-content:eq(1)&&Text;.module-info
 var rule = {
 	title:'南柯电影网',
 	模板:'mxpro',
-	host:'https://www.nkdyw.com',
+	host:'https://nkdyw.us/',
 	url:'/show/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
