@@ -3,7 +3,7 @@ muban.mxone5.二级.desc = '.video-info-items:eq(6)&&Text;;;.video-info-actor:eq
 var rule={
     title:'子子影视',
     模板:'mxone5',
-    host:'https://www.ziziys.com',
+    host:'https://%77%77%77%2e%7a%69%7a%69%79%73%2e%63%6f%6d',
     url:'/list/fyclass/page/fypage.html',
     // url:'/list/fyfilter/page/fypage.html',
     // filterable:1,//是否启用分类筛选,
