@@ -1,7 +1,7 @@
 // 搜索验证
 var rule={
 title:'骚火',
-host:'https://%73%68%64%79%33%2e%63%6f%6d',
+host:'https://%73%68%64%79%32%2e%63%6f%6d',
 // url:'/list/fyclass-fypage.html',
 url:'/list/fyfilter-fypage.html',
 filterable:1,//是否启用分类筛选,
