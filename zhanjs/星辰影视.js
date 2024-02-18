@@ -3,7 +3,7 @@ muban.首图2.二级.tabs = '.stui-pannel__head h3';
 var rule = {
     title:'星辰',
     模板:'首图2',
-    host:'http://www.xingchenwu.com',
+    host:'http://%77%77%77%2e%78%69%6e%67%63%68%65%6e%77%75%2e%63%6f%6d',
     // url:'/fyclass/indexfypage.html[/fyclass/index.html]',
     url:'/fyfilter/indexfypage.html[/fyfilter/index.html]',
     filterable:1,//是否启用分类筛选,
