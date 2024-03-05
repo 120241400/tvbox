@@ -1,4 +1,4 @@
-// 搜索验证
+// 搜索验证 http://shapp.us/
 var rule={
 title:'骚火',
 host:'https://%73%68%64%79%32%2e%63%6f%6d',
@@ -17,8 +17,8 @@ searchable:2,
 quickSearch:0,
 
 headers:{'User-Agent':'MOBILE_UA', },
-class_name:'电影&电视剧&动漫',
-class_url:'1&2&4',
+class_name:'电影&电视剧&动漫&请勿相信视频中广告 公众号：忘情影视',
+class_url:'1&2&4&22',
 // 推荐:'.v_list li;a&&title;.lazyload&&data-original;.v_note&&Text;a&&href',
 推荐:'*',
 一级:'.v_list li;a&&title;.lazyload&&data-original;.v_note&&Text;a&&href',
