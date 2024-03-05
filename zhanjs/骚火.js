@@ -10,7 +10,8 @@ filter: {"1":[{"key":"cateId","name":"类型","value":[{"v":"1","n":"全部"},{"
 filter_def:{
 	1:{cateId:'1'},
 	2:{cateId:'2'},
-	4:{cateId:'4'}
+	4:{cateId:'4'},
+	23:{cateId:'23'}
 },
 searchUrl:'/search.php?searchword=**',
 searchable:2,
@@ -18,7 +19,7 @@ quickSearch:0,
 
 headers:{'User-Agent':'MOBILE_UA', },
 class_name:'电影&电视剧&动漫&请勿相信视频中广告 公众号：忘情影视',
-class_url:'1&2&4&22',
+class_url:'1&2&4&23',
 // 推荐:'.v_list li;a&&title;.lazyload&&data-original;.v_note&&Text;a&&href',
 推荐:'*',
 一级:'.v_list li;a&&title;.lazyload&&data-original;.v_note&&Text;a&&href',
