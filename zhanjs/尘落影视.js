@@ -1,7 +1,7 @@
 // 导航站 https://www.chenluo.wang
 var rule={
     title:'尘落影视',
-    host:'https://v.zzdacou.com',
+    host:'https://www.chenluo.wang',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"#good&&li:eq(0)&&a&&href");print(src);HOST=src',
     // url:'/whole/fyclass_______0_addtime_fypage.html',
     url:'/whole/fyclassfyfilter.html',
