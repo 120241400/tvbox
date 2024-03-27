@@ -1,6 +1,6 @@
 var rule= {
     title:'白嫖影视',
-    host:'https://www.baipiaoys.cc',
+    host:'https://www.baipiaoys.com:9092',
     // url:'/index.php/vod/show/id/fyclass/page/fypage.html',
     url:'/show/id/fyclass/page/fypage.html',
     searchable: 2,//是否启用全局搜索,
