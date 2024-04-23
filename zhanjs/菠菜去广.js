@@ -1,7 +1,7 @@
 // 搜索安全验证
 var rule={
-    title:'影渣渣',
-    host:'https://www.yingzhazha.com',
+    title:'菠菜去广',
+    host:'https://ys.vidz.asia',
     // url:'/vodshow/fyclass--------fypage---.html',
     url:'/vodshow/fyfilter.html',
     filterable:1,//是否启用分类筛选,
